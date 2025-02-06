@@ -1,0 +1,35 @@
+.content-all-port{
+    height: 100vh;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    font-size: 2.5rem;
+    
+}
+
+.content-all-port .info-cl{
+    font-size: 2rem;
+}
+
+.content-all-port p span{
+    color: #fff;
+    font-weight: 700;
+}
+
+.content-all-port p a{
+    color: #fff;
+    font-weight: 700;
+}
+
+@media (max-width:767px){
+    .content-all-port{
+        font-size: 1.5rem;
+        
+    }
+
+    .content-all-port .info-cl{
+        font-size: 1rem;
+    }
+}

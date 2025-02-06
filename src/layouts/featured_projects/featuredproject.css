@@ -1,0 +1,44 @@
+.content-all-fp{
+    width: 85%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.cont-back-c{
+    width: 100%;
+}
+
+.cards-inf-prj{
+    display: flex;
+}
+
+.card-ctn-ffr{
+    width: 100%;
+    position: relative;
+}
+
+.bkg-pc{
+    width: 100%;
+}
+
+.card-ctn-ffn{
+    width: 13rem;
+}
+
+.ttl-fp-f{
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 700;
+    padding-bottom: 1rem;
+    
+}
+
+@media (max-width:1023px){
+    .cards-inf-prj{
+        flex-direction: column;
+    }
+
+    .card-ctn-ffr{
+        padding-bottom: 1rem;
+    }
+}

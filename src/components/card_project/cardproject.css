@@ -1,0 +1,53 @@
+.content-all-comp-crdprj{
+    width: 100%;
+    padding-bottom: 2rem;
+}
+
+.content-all-comp-crdprj a{
+    display: flex;
+    text-decoration: none;
+    justify-content: start;
+    align-items: center;
+}
+
+.content-all-comp-crdprj a p{
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+.content-all-comp-crdprj a img{
+    width: 2.5rem;
+    margin-left: 1rem;
+    transition: all ease 0.5s;
+}
+
+.enlace-project-cctn:hover .img-arrow{
+    transform: translateX(1.5rem);
+}
+
+.content-inf-prj-dtl{
+    font-size: 1.2rem;
+    padding: 1rem 0;
+}
+
+.card-info-t{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card-info-t p{
+    padding: 0.5rem 1rem;
+    border: solid #007aff 2px;
+    border-radius: 8px;
+    margin: 0.5rem;
+    color: #007aff;
+    text-transform: capitalize;
+}
+
+@media (max-width:767px){
+    .content-all-comp-crdprj a p{
+        font-size: 1.3rem;
+    }
+}
