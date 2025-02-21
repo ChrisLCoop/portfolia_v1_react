@@ -58,5 +58,45 @@ export const projects = [
                 name_tool : "css"
             }
         ]
+    },
+    {
+        id:3,
+        link_website:"https://erp-chris-proyect.web.app",
+        name_project:"ERP BASIC ",
+        description_project:"This project has multiple SQL tables, in which the GET, POST, PUT, PATCH, DELETE methods have been used at their respective points. Each new registered user-company, the entire team is linked to the registered information without affecting other new Records.This project has multiple SQL tables, in which the GET, POST, PUT, PATCH, DELETE methods have been used at their respective points. Each new registered user-company, the entire team is linked to the registered information without affecting other new Records.",
+        tools:[
+            {
+                id:1,
+                name_tool : "django"
+            },
+            {
+                id:2,
+                name_tool : "react + swc"
+            },
+            {
+                id:3,
+                name_tool : "jwt"
+            },
+            {
+                id:4,
+                name_tool : "axios"
+            },
+            {
+                id:5,
+                name_tool : "MySql"
+            },
+            {
+                id:6,
+                name_tool : "html"
+            },
+            {
+                id:7,
+                name_tool : "css"
+            },
+            {
+                id:8,
+                name_tool : "python"
+            }
+        ]
     }
 ]

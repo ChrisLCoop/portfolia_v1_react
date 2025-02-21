@@ -12,7 +12,7 @@ const CardProject = ({projects}) => {
                     <p>{project.name_project}</p>
                     <img className='img-arrow' src={arrowBlue} alt="" />
                 </a>
-                <p className='content-inf-prj-dtl'>Small React project created during an interview process to browse and search surf videos via the YouTube API.</p>
+                <p className='content-inf-prj-dtl'>{project.description_project}</p>
                 <div className="content-tool-cards">
                     <div className="card-info-t">
                         {project.tools.map((tool) =>(

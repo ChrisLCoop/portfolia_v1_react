@@ -39,6 +39,8 @@ const Background = () => {
                         <h3>tools</h3>
                         <p>git & github</p>
                         <p>postman</p>
+                        <p>tableau</p>
+                        <p>excel</p>
                     </div>
                     <div className="card-back-b">
                         <h3>model 3d</h3>
