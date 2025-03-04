@@ -41,6 +41,7 @@ const Background = () => {
                         <p>postman</p>
                         <p>tableau</p>
                         <p>excel</p>
+                        <p>power bi</p>
                     </div>
                     <div className="card-back-b">
                         <h3>model 3d</h3>
@@ -59,10 +60,28 @@ const Background = () => {
                         <div className="card-dtl-info-exp">
                             <div className="crd-inf-x">
                                 <p className='ttl-prsk'>courcera</p>
+                                <p className='ttl-crrcr'>Google AI Essentials</p>
+                            </div>
+                            <div className="crd-inf-y">
+                                <p>March 2025 - Present</p>
+                            </div>
+                        </div>
+                        <div className="card-dtl-info-exp">
+                            <div className="crd-inf-x">
+                                <p className='ttl-prsk'>courcera</p>
+                                <p className='ttl-crrcr'>Google Cybersecurity</p>
+                            </div>
+                            <div className="crd-inf-y">
+                                <p>March 2025 - Present</p>
+                            </div>
+                        </div>
+                        <div className="card-dtl-info-exp">
+                            <div className="crd-inf-x">
+                                <p className='ttl-prsk'>courcera</p>
                                 <p className='ttl-crrcr'>data analysis</p>
                             </div>
                             <div className="crd-inf-y">
-                                <p>Aug 2024 - Present</p>
+                                <p>Aug 2024 - Feb 2025</p>
                             </div>
                         </div>
                         <div className="card-dtl-info-exp">
@@ -92,7 +111,7 @@ const Background = () => {
                                 <p className='p-info-ex-p'>focus in the security, implementation of JWT</p>
                             </div>
                             <div className="crd-inf-y">
-                                <p>jan 2025 - Present</p>
+                                <p>jan 2025 - Feb 2025</p>
                             </div>
                         </div>
                         <div className="card-dtl-info-exp">

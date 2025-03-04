@@ -30,7 +30,11 @@
     color: #fff;
     font-weight: 700;
     padding-bottom: 1rem;
-    
+    text-decoration: none;
+}
+
+.cont-info-dtl-prj p{
+    padding-top: 1rem;
 }
 
 @media (max-width:1023px){
