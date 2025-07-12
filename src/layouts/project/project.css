@@ -4,6 +4,13 @@
     margin: 0 auto;
 }
 
+.cont-sct-mbl h2{
+    width: 10rem;
+    
+}
+
+
+
 @media (max-width:767px){
     .cont-project-mob{
         display: flex;

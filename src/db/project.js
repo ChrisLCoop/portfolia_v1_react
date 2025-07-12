@@ -122,7 +122,7 @@ export const projects = [
     {
         id:5,
         link_website:"https://colab.research.google.com/drive/1z5NTK5aNF3qJA1Pd9Zjbv-x991rOdDdn?usp=sharing",
-        name_project:"analisis_desempleo(unemployment), GitHUb + Google CO",
+        name_project:"analisis desempleo(unemployment), GitHUb + Google CO",
         description_project:"This project analyses the unemployment rate from 2014 to 2024 in different countries, considering variables such as gender and age groups. Exploratory data analysis (EDA), data visualisation and basic machine learning techniques have been applied to identify trends and make a prediction of future unemployment.",
         tools:[
             {

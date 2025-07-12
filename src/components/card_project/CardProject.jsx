@@ -10,7 +10,7 @@ const CardProject = ({projects}) => {
             <div key={project.id} className="content-all-comp-crdprj">
                 <a className='enlace-project-cctn' href={project.link_website} target='_blank'> 
                     <p>{project.name_project}</p>
-                    <img className='img-arrow' src={arrowBlue} alt="" />
+                    <img className='img-arrow' src={arrowBlue} alt="flecha-derecha" />
                 </a>
                 <p className='content-inf-prj-dtl'>{project.description_project}</p>
                 <div className="content-tool-cards">

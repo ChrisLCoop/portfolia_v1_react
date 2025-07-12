@@ -6,7 +6,7 @@ const Port = () => {
     <>
         <div className="content-all-port">
             <p>Hello!</p>
-            <p>I'm <span>Christian Limas</span>, a Full-Stack Web Developer (Junior) | Data Analyst. I've one passion of programming of the llogic for achieve one interaction natural with the machine, and combination new ideas in the architecture of program. <span>👨‍💻</span></p>
+            <p>I'm <span>Christian Limas</span>, a Junior Full-Stack Web Developer, Data Analyst and Cibersecurity Analyst, passionate about programming logic and artificial intelligence. I strive to create natural interactions between humans and machines by combining innovative ideas in software architecture, AI, and automation. <span>🤖👨‍💻</span></p>
             <p className='info-cl'>Get in touch 👉 <a href="mailto:christian.limas.e@gmail.com">christian.limas.e@mail.com</a> </p>
         </div>
     </>
