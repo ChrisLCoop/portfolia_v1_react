@@ -10,7 +10,7 @@ const Footer = () => {
                     <p>Designed & Developed by Christian Limas 2025</p>
                 </div>
                 <div className="ft-bql-b">
-                    <a target='_blank' href="mailto:christian.limas.e@gmail.com">email</a>
+                    <a target='_blank' href="mailto:contact@christianlimas.com">email</a>
                     <a target='_blank' href="https://www.linkedin.com/in/christian-limas/">linkedin</a>
                     <a target='_blank' href="https://github.com/ChrisLCoop">github</a>
                 </div>

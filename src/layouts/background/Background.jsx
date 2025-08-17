@@ -122,6 +122,7 @@ const Background = () => {
             </div>
           </div>
         </div>
+        {/** 
         <div className="cont-blq-bk">
           <div className="cont-back-a">
             <h2>experience - (personal project)</h2>
@@ -169,6 +170,7 @@ const Background = () => {
             </div>
           </div>
         </div>
+        */}
       </div>
     </>
   );
